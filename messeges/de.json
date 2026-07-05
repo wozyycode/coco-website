@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "commands": "Befehle",
+    "statistics": "Statistiken",
+    "dashboard": "Dashboard",
+    "invite": "Zum Server hinzufügen",
+    "login": "Mit Discord anmelden"
+  },
+  "hero": {
+    "badge": "184.286+ geschützte Nutzer",
+    "title": "Der Bot, der deinen Server Tag und Nacht bewacht",
+    "subtitle": "Coco stoppt Nuke-Angriffe in Sekunden, erkennt Betrugsnachrichten sofort per KI und versetzt deinen Server mit einem Befehl in vollständige Isolation.",
+    "ctaPrimary": "Zum Server hinzufügen",
+    "ctaSecondary": "Befehle ansehen",
+    "stat1": "Server",
+    "stat2": "Nutzer",
+    "stat3": "Blockierte Angriffe",
+    "stat4": "Ø Reaktionszeit"
+  },
+  "features": {
+    "eyebrow": "Warum Coco",
+    "title": "Alles, was ein Sicherheitsteam tun würde, automatisiert",
+    "f1title": "Sofortiger Nuke-Schutz",
+    "f1desc": "Sobald das Löschen eines Kanals oder einer Rolle erkannt wird, verliert der Angreifer die Berechtigungen und alle Änderungen werden automatisch rückgängig gemacht.",
+    "f2title": "KI-gestützte Erkennung",
+    "f2desc": "Unser Gemini-gestützter Scanner erkennt Beleidigungen, Betrug und Phishing in Dutzenden Sprachen sofort und löscht die Nachricht.",
+    "f3title": "Panik-Modus",
+    "f3desc": "Ein Knopf deaktiviert Webhooks, sperrt Kanäle, friert Berechtigungen ein und versetzt deinen Server in vollständige Isolation.",
+    "f4title": "Snapshots & Wiederherstellung",
+    "f4desc": "Erstellt regelmäßige Backups deines Servers und stellt Kanäle und Rollen nach einem Angriff mit einem Klick wieder her.",
+    "f5title": "Detailliertes Sicherheitspanel",
+    "f5desc": "Schalte Schutzmodule um, passe Schwellenwerte an und verfolge das Live-Audit-Log direkt über ein Panel im Befehl.",
+    "f6title": "Mehrsprachige Erkennung",
+    "f6desc": "KI, die Abkürzungen, Buchstabentricks und gemischte Sprachen versteht — nichts bleibt unbemerkt."
+  },
+  "commands": {
+    "eyebrow": "Befehlsbibliothek",
+    "title": "Jeder Befehl, live aus der Quelle gelesen",
+    "subtitle": "Diese Seite liest den /commands-Ordner des Bots direkt; neue Befehle erscheinen automatisch hier.",
+    "searchPlaceholder": "Befehle suchen...",
+    "categoryAll": "Alle",
+    "noResults": "Kein passender Befehl gefunden.",
+    "usage": "Verwendung"
+  },
+  "statistics": {
+    "eyebrow": "Live-Daten",
+    "title": "Was macht Coco gerade?",
+    "subtitle": "Alle Daten werden in Echtzeit direkt vom Bot abgerufen und jede Sekunde aktualisiert.",
+    "servers": "Server",
+    "users": "Nutzer",
+    "channels": "Kanäle",
+    "commandsRun": "Ausgeführte Befehle",
+    "uptime": "Laufzeit",
+    "ping": "Latenz",
+    "threatsBlocked": "Blockierte Bedrohungen",
+    "messagesScanned": "Gescannte Nachrichten",
+    "memory": "Speichernutzung",
+    "shardsTitle": "Shard-Verteilung",
+    "liveIndicator": "LIVE"
+  },
+  "dashboard": {
+    "badge": "Demnächst",
+    "title": "Dashboard ist unterwegs",
+    "subtitle": "Wir entwickeln ein erweitertes Kontrollpanel, damit du deinen Server direkt im Browser verwalten kannst.",
+    "notify": "Benachrichtige mich, wenn es fertig ist"
+  },
+  "footer": {
+    "tagline": "Das eine Licht, das im Dunkeln wacht.",
+    "product": "Produkt",
+    "company": "Coco",
+    "legal": "Rechtliches",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "support": "Support-Server",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "theme": {
+    "light": "Hell",
+    "dark": "Dunkel"
+  }
+}

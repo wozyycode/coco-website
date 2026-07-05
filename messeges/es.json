@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "commands": "Comandos",
+    "statistics": "Estadísticas",
+    "dashboard": "Panel",
+    "invite": "Añadir al Servidor",
+    "login": "Iniciar sesión con Discord"
+  },
+  "hero": {
+    "badge": "184,286+ usuarios protegidos",
+    "title": "El bot que protege tu servidor día y noche",
+    "subtitle": "Coco detiene los ataques nuke en segundos, detecta mensajes de estafa al instante con IA y bloquea tu servidor en aislamiento total con un solo comando.",
+    "ctaPrimary": "Añadir al Servidor",
+    "ctaSecondary": "Ver Comandos",
+    "stat1": "Servidores",
+    "stat2": "Usuarios",
+    "stat3": "Ataques Bloqueados",
+    "stat4": "Tiempo de Respuesta"
+  },
+  "features": {
+    "eyebrow": "Por qué Coco",
+    "title": "Todo lo que haría un equipo de seguridad, automatizado",
+    "f1title": "Protección Nuke Instantánea",
+    "f1desc": "En el momento en que se detecta un intento de eliminar un canal o rol, el atacante pierde sus permisos y todos los cambios se revierten automáticamente.",
+    "f2title": "Escaneo con IA",
+    "f2desc": "Nuestro escáner impulsado por Gemini reconoce insultos, estafas y phishing en docenas de idiomas al instante y elimina el mensaje.",
+    "f3title": "Modo Pánico",
+    "f3desc": "Un botón desactiva los webhooks, bloquea los canales, congela los permisos y pone tu servidor en aislamiento total.",
+    "f4title": "Copias de Seguridad y Restauración",
+    "f4desc": "Realiza copias de seguridad periódicas de tu servidor y restaura canales y roles a su estado anterior con un clic tras un ataque.",
+    "f5title": "Panel de Seguridad Detallado",
+    "f5desc": "Activa o desactiva módulos de protección, ajusta umbrales y observa el registro de auditoría en vivo desde un panel dentro del comando.",
+    "f6title": "Detección Multilingüe",
+    "f6desc": "IA que entiende abreviaturas, trucos de letras e idiomas mixtos: nada pasa desapercibido."
+  },
+  "commands": {
+    "eyebrow": "Biblioteca de Comandos",
+    "title": "Cada comando, leído en vivo desde la fuente",
+    "subtitle": "Esta página lee la carpeta /commands del bot directamente; cuando se añade un nuevo comando, aparece aquí automáticamente.",
+    "searchPlaceholder": "Buscar comandos...",
+    "categoryAll": "Todos",
+    "noResults": "No se encontró ningún comando.",
+    "usage": "Uso"
+  },
+  "statistics": {
+    "eyebrow": "Datos en Vivo",
+    "title": "¿Qué está haciendo Coco ahora mismo?",
+    "subtitle": "Todos los datos se obtienen directamente del bot en tiempo real y se actualizan cada segundo.",
+    "servers": "Servidores",
+    "users": "Usuarios",
+    "channels": "Canales",
+    "commandsRun": "Comandos Ejecutados",
+    "uptime": "Tiempo Activo",
+    "ping": "Latencia",
+    "threatsBlocked": "Amenazas Bloqueadas",
+    "messagesScanned": "Mensajes Escaneados",
+    "memory": "Uso de Memoria",
+    "shardsTitle": "Distribución de Shards",
+    "liveIndicator": "EN VIVO"
+  },
+  "dashboard": {
+    "badge": "Próximamente",
+    "title": "El panel está en camino",
+    "subtitle": "Estamos construyendo un panel de control avanzado para que puedas gestionar tu servidor desde el navegador.",
+    "notify": "Avísame cuando esté listo"
+  },
+  "footer": {
+    "tagline": "La única luz que vigila en la oscuridad.",
+    "product": "Producto",
+    "company": "Coco",
+    "legal": "Legal",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "support": "Servidor de Soporte",
+    "rights": "Todos los derechos reservados."
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Oscuro"
+  }
+}

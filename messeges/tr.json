@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "commands": "Komutlar",
+    "statistics": "İstatistikler",
+    "dashboard": "Dashboard",
+    "invite": "Sunucuna Ekle",
+    "login": "Discord ile Giriş"
+  },
+  "hero": {
+    "badge": "184.286+ kullanıcı korunuyor",
+    "title": "Sunucunu gece de gündüz de koruyan bot",
+    "subtitle": "Coco; nuke saldırılarını saniyeler içinde durdurur, dolandırıcılık mesajlarını yapay zekâ ile anında algılar ve tek komutla sunucunu tam izolasyona alır.",
+    "ctaPrimary": "Sunucuna Ekle",
+    "ctaSecondary": "Komutları İncele",
+    "stat1": "Sunucu",
+    "stat2": "Kullanıcı",
+    "stat3": "Engellenen Saldırı",
+    "stat4": "Ortalama Tepki Süresi"
+  },
+  "features": {
+    "eyebrow": "Neden Coco",
+    "title": "Bir güvenlik ekibinin yapacağı her şeyi otomatikleştirdik",
+    "f1title": "Anlık Nuke Koruması",
+    "f1desc": "Kanal veya rol silme girişimi algılandığı anda saldırgan yetkisiz bırakılır ve tüm değişiklikler otomatik geri alınır.",
+    "f2title": "Yapay Zekâ Destekli Tarama",
+    "f2desc": "Gemini modeliyle çalışan tarayıcımız küfür, dolandırıcılık ve kimlik avını onlarca dilde anında tanır ve mesajı siler.",
+    "f3title": "Panik Modu",
+    "f3desc": "Tek tuşla webhook'ları kapatır, kanalları kilitler, yetkileri dondurur ve sunucunu tam izolasyona alır.",
+    "f4title": "Anlık Görüntü ve Geri Alma",
+    "f4desc": "Sunucunun düzenli yedeklerini alır, bir saldırı sonrası kanalları ve rolleri tek tıkla eski haline getirir.",
+    "f5title": "Detaylı Güvenlik Paneli",
+    "f5desc": "Komut içi panelden koruma modüllerini aç/kapat yap, eşik değerlerini ayarla, canlı denetim kaydını izle.",
+    "f6title": "Çok Dilli Algılama",
+    "f6desc": "Kısaltmaları, harf oyunlarını ve karışık dilleri anlayan yapay zekâ ile hiçbir kaçamak fark edilmeden geçmez."
+  },
+  "commands": {
+    "eyebrow": "Komut Kütüphanesi",
+    "title": "Tüm komutlar, canlı olarak buradan okunur",
+    "subtitle": "Bu sayfa botun /commands klasörünü doğrudan okur; yeni bir komut eklendiğinde otomatik olarak burada görünür.",
+    "searchPlaceholder": "Komut ara...",
+    "categoryAll": "Tümü",
+    "noResults": "Aradığınız komut bulunamadı.",
+    "usage": "Kullanım"
+  },
+  "statistics": {
+    "eyebrow": "Canlı Veri",
+    "title": "Coco şu anda ne yapıyor?",
+    "subtitle": "Tüm veriler gerçek zamanlı olarak botun kendisinden alınır ve saniyede bir yenilenir.",
+    "servers": "Sunucu",
+    "users": "Kullanıcı",
+    "channels": "Kanal",
+    "commandsRun": "Çalıştırılan Komut",
+    "uptime": "Aktiflik Süresi",
+    "ping": "Gecikme",
+    "threatsBlocked": "Engellenen Tehdit",
+    "messagesScanned": "Taranan Mesaj",
+    "memory": "Bellek Kullanımı",
+    "shardsTitle": "Shard Dağılımı",
+    "liveIndicator": "CANLI"
+  },
+  "dashboard": {
+    "badge": "Yakında",
+    "title": "Dashboard yolda",
+    "subtitle": "Sunucunu tarayıcıdan yönetebileceğin gelişmiş kontrol paneli üzerinde çalışıyoruz.",
+    "notify": "Hazır olduğunda haber ver"
+  },
+  "footer": {
+    "tagline": "Karanlıkta nöbet tutan tek nokta.",
+    "product": "Ürün",
+    "company": "Coco",
+    "legal": "Yasal",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "support": "Destek Sunucusu",
+    "rights": "Tüm hakları saklıdır."
+  },
+  "theme": {
+    "light": "Aydınlık",
+    "dark": "Karanlık"
+  }
+}

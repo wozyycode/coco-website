@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Home",
+    "commands": "Commands",
+    "statistics": "Statistics",
+    "dashboard": "Dashboard",
+    "invite": "Add to Server",
+    "login": "Login with Discord"
+  },
+  "hero": {
+    "badge": "184,286+ users protected",
+    "title": "The bot that guards your server day and night",
+    "subtitle": "Coco stops nuke attacks in seconds, catches scam messages instantly with AI, and locks your server into full isolation with a single command.",
+    "ctaPrimary": "Add to Server",
+    "ctaSecondary": "Browse Commands",
+    "stat1": "Servers",
+    "stat2": "Users",
+    "stat3": "Attacks Blocked",
+    "stat4": "Avg. Response Time"
+  },
+  "features": {
+    "eyebrow": "Why Coco",
+    "title": "Everything a security team would do, automated",
+    "f1title": "Instant Nuke Protection",
+    "f1desc": "The moment a channel or role deletion is detected, the attacker is stripped of permissions and every change is rolled back automatically.",
+    "f2title": "AI-Powered Scanning",
+    "f2desc": "Our Gemini-powered scanner recognizes profanity, scams, and phishing in dozens of languages instantly and removes the message.",
+    "f3title": "Panic Mode",
+    "f3desc": "One button disables webhooks, locks channels, freezes permissions, and puts your server into full isolation.",
+    "f4title": "Snapshots & Rollback",
+    "f4desc": "Takes regular backups of your server and restores channels and roles to their previous state with a single click after an attack.",
+    "f5title": "Detailed Security Panel",
+    "f5desc": "Toggle protection modules, adjust thresholds, and watch the live audit log directly from an in-command panel.",
+    "f6title": "Multilingual Detection",
+    "f6desc": "AI that understands abbreviations, letter tricks, and mixed languages — nothing slips through unnoticed."
+  },
+  "commands": {
+    "eyebrow": "Command Library",
+    "title": "Every command, read live from the source",
+    "subtitle": "This page reads the bot's /commands folder directly; when a new command is added, it appears here automatically.",
+    "searchPlaceholder": "Search commands...",
+    "categoryAll": "All",
+    "noResults": "No matching command found.",
+    "usage": "Usage"
+  },
+  "statistics": {
+    "eyebrow": "Live Data",
+    "title": "What is Coco doing right now?",
+    "subtitle": "All data is pulled from the bot itself in real time and refreshes every second.",
+    "servers": "Servers",
+    "users": "Users",
+    "channels": "Channels",
+    "commandsRun": "Commands Run",
+    "uptime": "Uptime",
+    "ping": "Latency",
+    "threatsBlocked": "Threats Blocked",
+    "messagesScanned": "Messages Scanned",
+    "memory": "Memory Usage",
+    "shardsTitle": "Shard Distribution",
+    "liveIndicator": "LIVE"
+  },
+  "dashboard": {
+    "badge": "Coming Soon",
+    "title": "Dashboard is on its way",
+    "subtitle": "We're building an advanced control panel so you can manage your server right from the browser.",
+    "notify": "Notify me when it's ready"
+  },
+  "footer": {
+    "tagline": "The one light keeping watch in the dark.",
+    "product": "Product",
+    "company": "Coco",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "support": "Support Server",
+    "rights": "All rights reserved."
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  }
+}
