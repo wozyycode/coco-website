@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html.light {
+  color-scheme: light;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-void text-mist font-body antialiased;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+html.light body {
+  @apply bg-paper text-ink;
+}
+
+/* Erişilebilir odak halkası — hiçbir yerde kaldırılmaz */
+:focus-visible {
+  outline: 2px solid #5865F2;
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* İnce kaydırma çubuğu */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #2A2A31;
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3A3A42;
+}
+
+/* Hareket azaltma tercihi olan kullanıcılar için animasyonları kıs */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Nokta ızgara arkaplan — hero için */
+.dot-grid {
+  background-image: radial-gradient(circle, rgba(255,255,255,0.08) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+html.light .dot-grid {
+  background-image: radial-gradient(circle, rgba(0,0,0,0.06) 1px, transparent 1px);
+}
+
+/* Cam efekti kartlar */
+.glass-card {
+  background: rgba(28, 28, 33, 0.6);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+html.light .glass-card {
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+/* Sayı sayma animasyonu için tabular sayılar */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
